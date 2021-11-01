@@ -1,6 +1,10 @@
-[![Axarva's github stats](https://github-readme-stats.vercel.app/api?username=GatoImorrivel&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GatoImorrivel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-
 <div align="center">
-Im Gato/Guilherme, im 17 years old<br>
-Musician, Programmer, 3D artist
+
+[![Axarva's github stats](https://github-readme-stats.vercel.app/api?username=Axarva&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axarva&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+ <p>
+   I'm Gato. 17 years old, ricer, programmer, musician, 3D modeller.
+ </p>
+   
 </div>
+</body>
